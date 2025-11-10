@@ -25,6 +25,4 @@ Tydlig 3-radig OLED-layout
 
 Icke-blockerande uppdateringar av IMU och display
 
-Användning
 
-Framtaget för velocity-based training (VBT), analys av lyft och generell rörelsespårning.
